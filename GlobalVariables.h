@@ -1,0 +1,4 @@
+#define XOR_POINTER			0x52054A34
+#define XOR_OFFSET			0x2CF422FF
+
+#define TEST_BUILD			1
